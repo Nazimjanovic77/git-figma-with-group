@@ -1,1 +1,0 @@
-# git-figma-with-group
